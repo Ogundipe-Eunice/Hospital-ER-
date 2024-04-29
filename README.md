@@ -3,7 +3,7 @@
 
 | Hospital dashbaord |
 | ----------- |
-|![Hospital dashboard](Uploading Hospital_dashboard.png)|
+|![Hospital dashboard](Hospital_dashboard.png)|
 
 
 
