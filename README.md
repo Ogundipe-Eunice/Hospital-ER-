@@ -127,3 +127,31 @@ Average Wait Time = AVERAGE('patient data set'[WaitTime])
 | Dax Measures |
 | ----------- |
 |![View Applied steps](Calculations_HR.png)|
+
+
+# Insights from Patient Emergency Room Visit Report
+
+Based on the analysis of the emergency room visit data, the following insights can be drawn:
+
+1. **Gender Distribution:** The gender distribution of patients visiting the emergency room is relatively balanced. This indicates no significant gender-based disparity in the usage of emergency services.
+
+2. **Wait Time Concerns:** The average wait time suggests that there may be operational inefficiencies or resource constraints that need to be addressed to improve patient flow and satisfaction.
+
+3. **Service Ratings:** A notable percentage of services are not rated, which points to a potential gap in the patient feedback process. Improving the mechanism for collecting patient feedback could lead to more actionable insights for service improvement.
+
+4. **Appointment Type Impact:** The close balance between administrative and non-administrative appointments may imply that both types of visits are equally important for the operational focus of the emergency department.
+
+5. **Referral Patterns:** A significant portion of patients are not referred, which could suggest that many patients are using the emergency room for non-emergency issues or that primary care channels may be underutilized or unavailable.
+
+6. **Patient Satisfaction Variability:** Patient satisfaction appears to vary across different demographics, indicating a need for targeted service improvements and potential cultural competence training for staff.
+
+7. **Utilization Trends:** The year-on-year increase in patient numbers highlights the growing demand for emergency services, necessitating strategic planning in resource allocation and capacity management.
+
+These insights can inform strategic decisions aimed at improving patient care, operational efficiency, and overall service quality in the emergency room.
+
+**Suggestions for Action:**
+- Review and streamline the patient intake and triage process to reduce wait times.
+- Implement a more robust patient feedback system to ensure higher service rating participation.
+- Analyze referral patterns and collaborate with primary care providers to optimize patient flow.
+- Conduct detailed demographic analysis to understand and address the specific needs of different patient groups.
+
