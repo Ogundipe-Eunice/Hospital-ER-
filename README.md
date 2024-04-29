@@ -1,6 +1,12 @@
 # Hospital-Emergency-Dashboard
 
 
+| Hospital dashbaord |
+| ----------- |
+|![Hospital dashboard](Uploading Hospital_dashboard.png)|
+
+
+
 ## Dashboard: 
 [View Dashboard](https://app.powerbi.com/links/HH5SA-6EjJ?ctid=5781ca16-51a6-4e98-9be9-dc2b9d03b82d&pbi_source=linkShare)
 
