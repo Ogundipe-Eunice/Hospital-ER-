@@ -41,7 +41,7 @@ The problem statement addresses the need to enhance patient experiences in the e
 
 | Data cleaning |
 | ----------- |
-|[View Applied steps](Applied_steps.png)|
+|![View Applied steps](Applied_steps.png)|
 
 
 
@@ -126,4 +126,4 @@ Average Wait Time = AVERAGE('patient data set'[WaitTime])
 
 | Dax Measures |
 | ----------- |
-|[View Applied steps](Calculations_HR.png)|
+|![View Applied steps](Calculations_HR.png)|
